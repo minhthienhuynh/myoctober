@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'myoctober.local',
 
     /*
     |--------------------------------------------------------------------------
@@ -101,7 +101,7 @@ return [
     |
     */
 
-    'key' => 'base64:cXXTMwDqUsPmyozOQlu2wKcT0HfH/wH9xJNdoKBiR7U=',
+    'key' => 'JGSrJPcj91sDGUFyAsZ9UbKcDZcOHfzp',
 
     'cipher' => 'AES-256-CBC',
 
